@@ -1,0 +1,18 @@
+Grupo 2 - Desafio de Git
+
+
+- ✅ Everton Santos: MAPEAMENTO
+
+- ✅ Thaina:apague essa mensagem e coloque sua frase aqui
+
+- ✅ Marina: apague essa mensagem e coloque sua frase aqui
+
+- ✅ Andrey: apague essa mensagem e coloque sua frase aqui
+
+- ✅ Glaucia: apague essa mensagem e coloque sua frase aqui
+
+- ✅ João: apague essa mensagem e coloque sua frase aqui
+
+- ✅ Rita: apague essa mensagem e coloque sua frase aqui
+
+- ✅ Fernando: apague essa mensagem e coloque sua frase aqui
