@@ -3,7 +3,7 @@ Grupo 2 - Desafio de Git
 
 - ✅ Everton Santos: MAPEAMENTO
 
-- ✅ Thaina:apague essa mensagem e coloque sua frase aqui
+- ✅ Thayna:DIAGNÓSTICO 
 
 - ✅ Marina: apague essa mensagem e coloque sua frase aqui
 
