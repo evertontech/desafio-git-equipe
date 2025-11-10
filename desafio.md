@@ -15,4 +15,4 @@ Grupo 2 - Desafio de Git
 
 - ✅ Rita: apague essa mensagem e coloque sua frase aqui
 
-- ✅ Fernando: apague essa mensagem e coloque sua frase aqui
+- ✅ Fernando: Avaliações tecnicas somativas são importantes para tesar o conhecimento
