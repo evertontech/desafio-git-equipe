@@ -11,7 +11,7 @@ Grupo 2 - Desafio de Git
 
 - ✅ Glaucia: apague essa mensagem e coloque sua frase aqui
 
-- ✅ João: apague essa mensagem e coloque sua frase aqui
+- ✅ João: teste git 1 2 3 
 
 - ✅ Rita: apague essa mensagem e coloque sua frase aqui
 
